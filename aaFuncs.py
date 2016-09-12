@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import Image
+from PIL import Image	
 import aalib
 import urllib2
 from cStringIO import StringIO
